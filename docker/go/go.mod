@@ -1,3 +1,3 @@
-module github.com/alissonmdo/fullcycle/docker/desafio-go
+module github.com/alissonmdo/fullcycle/docker/go
 
 go 1.20
