@@ -1,4 +1,4 @@
-# Full Cycle Docker Challenge
+# Full Cycle Docker Challenge - Go
 
 ## Table of Contents
 
